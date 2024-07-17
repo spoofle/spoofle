@@ -8,8 +8,10 @@
 
 🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the All District Reads project (Spring 2024)! We're currently building an app and a website for the nonprofit All District Reads. Learn more about this project at [Hack4Impact-UMD](https://umd.hack4impact.org/)!
 
+🖥️ Languages: Python | C | Java | OCaml | F# | Dart
+
 ---
-### 🖥️  Projects!
+### 👩🏾‍💻 Projects!
 ✨ [Default Rate Prediction](https://github.com/spoofle/bitcamp24/tree/main): Project done for Bitcamp 2024. Uses three input variables - weather data, interest rate, and employment rate - and predictions the default rate. Utilizes LSTMs and data augmentation using Gen AI to measure and increase accuracy of predictions. Written in Python.
 
 ✨ [Recall Pit](https://www.recallpit.com/): An app available on both iOS and Android that pulls recalled items announced by the FDA/CPSC/USDA and compiles them into an accessible and easily readable format. Built using Flutter and Dart and hosted on Google Cloud.
