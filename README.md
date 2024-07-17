@@ -1,4 +1,24 @@
-## Hi there 👋
+## 👋 Hello, my name is Hita Thota! 
+
+💻 CS + Neuroscience @ University of Maryland - College Park
+
+📍 San Francisco, CA
+
+🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by generative AI, neural nets, and computer vision. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and am currently working on a project that combines my interest in LLMs with my interest in the medical field. 
+
+🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the All District Reads project (Spring 2024)! We're currently building an app and a website for the nonprofit All District Reads. Learn more about this project at [Hack4Impact-UMD](https://umd.hack4impact.org/)!
+
+---
+### 🖥️  Current projects!
+ 
+✨ [Recall Pit](https://www.recallpit.com/): An app available on both iOS and Android that pulls recalled items announced by the FDA/CPSC/USDA and compiles them into an accessible and easily readable format. Built using Flutter and Dart and hosted on Google Cloud.
+
+
+---
+### 🌎 Let's Connect!
+🔗 [LinkedIn](https://www.linkedin.com/in/hita-thota/)
+
+
 
 <!--
 **spoofle/spoofle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
