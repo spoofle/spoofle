@@ -12,6 +12,8 @@
 
 ---
 ### 👩🏾‍💻 Projects!
+✨ Oncology/LLM Benchmarking [Github repository coming soon!]: Summer 2024 research. Benchmarking LLMs and measuring accuracy of responses to oncology-related questions. In the process of writing a paper report. Written in Python.
+
 ✨ [Default Rate Prediction](https://github.com/spoofle/bitcamp24/tree/main): Project done for Bitcamp 2024. Uses three input variables - weather data, interest rate, and employment rate - and predicts the default rate. Utilizes LSTMs and data augmentation using Gen AI to measure and increase accuracy of predictions. Written in Python.
 
 ✨ [Recall Pit](https://www.recallpit.com/): An app available on both iOS and Android that pulls recalled items announced by the FDA/CPSC/USDA and compiles them into an accessible and easily readable format. Built using Flutter/Dart and hosted database backend on Google Cloud.
