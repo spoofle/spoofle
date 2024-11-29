@@ -9,7 +9,7 @@
 🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the Internal Application Tools project. We're building an application portal and dashboard as part of our initiative to overhaul the current application process to Hack4Impact-UMD. Past projects I've also worked on as a TL includes: 
 - All District Reads project (Spring/Summer 2024) - Mobile and web development for the All District Reads nonprofit
 
-Learn more about these projects and more at [Hack4Impact-UMD](https://umd.hack4impact.org/)!
+Learn more about these projects at [Hack4Impact-UMD](https://umd.hack4impact.org/)!
 
 🖥️ Languages: Python | C | Java | OCaml | F# | Dart
 
