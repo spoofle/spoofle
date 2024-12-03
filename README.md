@@ -4,7 +4,7 @@
 
 📍 San Francisco, CA
 
-🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by generative AI, neural nets, and computer vision. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD.
+🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD.
 
 🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the Internal Application Tools project. We're building an application portal and dashboard as part of our initiative to overhaul the current application process to Hack4Impact-UMD. Past projects I've also worked on as a TL includes: 
 - All District Reads project (Spring/Summer 2024) - Mobile and web development for the All District Reads nonprofit
