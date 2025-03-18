@@ -6,6 +6,8 @@
 
 🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD.
 
+🛍️ Incoming Engineering Intern @ Shopify - Summer 2025!
+
 ✍️ I write about Gen AI (particularly Gemini), computer vision, and cool research I read about on my blog [Code Meets Cognition](https://hthota.substack.com/). Feel free to check it out, as well as the code samples pinned below!
 
 🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the Winrock International project. We're building a dashboard that processes information more effectively. Past projects I've also worked on as a TL includes: 
