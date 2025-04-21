@@ -10,7 +10,7 @@
 
 ✍️ I write about Gen AI (particularly Gemini), computer vision, and cool research I read about on my blog [Code Meets Cognition](https://hthota.substack.com/). Feel free to check it out, as well as the code samples pinned below!
 
-🌱 Tech Lead @ Hack4Impact-UMD: I'm currently a co-tech lead for the Winrock International project. We're building a dashboard and forms that process information more effectively. Past projects I've also worked on as a TL includes: 
+🌱 Tech Lead + Incoming Director of Engineering @ Hack4Impact-UMD: I'm currently a co-tech lead for the Winrock International project. We're building a dashboard and forms that process information more effectively. Past projects I've also worked on as a TL includes: 
 - Hack4Impact Application Tool (Fall 2024) - Overhauling application process utilized by 200+ prospective applicants, making it cleaner and easier to navigate the process
 - All District Reads project (Spring/Summer 2024) - Mobile and web development for the All District Reads nonprofit
 
