@@ -6,7 +6,7 @@
 
 🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD. My previous internships include a 2 year internship at Rising Team, where I helped build company product components among other contributions.
 
-🛍️ Incoming Engineering Intern @ Shopify - Summer 2025!
+🛍️ Engineering Intern @ Shopify - Summer 2025!
 
 ✍️ I write about Gen AI (particularly Gemini), computer vision, and cool research I read about on my blog [Code Meets Cognition](https://hthota.substack.com/). Feel free to check it out, as well as the code samples pinned below!
 
