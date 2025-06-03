@@ -16,7 +16,7 @@
 
 Learn more about these projects at [Hack4Impact-UMD](https://umd.hack4impact.org/)!
 
-🖥️ Languages: Python | C | Java | OCaml | F# | Dart | Rust
+🖥️ Languages: Python | C | Ruby + Ruby on Rails | Java | OCaml | F# | Dart | Rust
 
 ---
 ### 👩🏾‍💻 Projects!
