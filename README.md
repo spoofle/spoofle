@@ -8,6 +8,8 @@
 
 🛍️ Engineering Intern @ Shopify! Working on cool AI stuff.
 
+🔬 CV + Robotics Research: Still relatively new, but I'm an undergraduate researcher at UMD's [Perception and Robotics Group](https://prg.cs.umd.edu/). Learning lots and assisting in research about optical flow in computer vision currently, but looking to switch gears a little and focus a little more on embodied AI and robotics.
+
 ✍️ I write about Gen AI (particularly Gemini), computer vision, and cool research I read about on my blog [Code Meets Cognition](https://hthota.substack.com/). Feel free to check it out, as well as the code samples pinned below!
 
 🌱 Tech Lead + Director of Engineering @ Hack4Impact-UMD: I'm currently a co-tech lead for the Winrock International project. We're building a dashboard and forms that process information more effectively. Past projects I've also worked on as a TL includes: 
