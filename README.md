@@ -6,7 +6,7 @@
 
 🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD. My previous internships include a 2 year internship at Rising Team, where I helped build company product components among other contributions.
 
-🛍️ Engineering Intern @ Shopify! Working on cool AI stuff.
+🛍️ Shopify Engineering Intern @ NYC during Summer 2025. Lots of MCP and LLM experience!
 
 🔬 CV + Robotics Research: Still relatively new, but I'm an undergraduate researcher at UMD's [Perception and Robotics Group](https://prg.cs.umd.edu/). Learning lots and assisting in research about optical flow in computer vision currently, but looking to switch gears a little and focus a little more on embodied AI and robotics.
 
