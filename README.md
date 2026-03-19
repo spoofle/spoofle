@@ -4,7 +4,7 @@
 
 📍 San Francisco, CA
 
-🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD. My previous internships include a 2 year internship at Rising Team, where I helped build company product components among other contributions.
+🌟 I'm a Computer Science + Neuroscience student at the University of Maryland fascinated by computer vision, neural nets, and LLMs. My current experience in software engineering includes both frontend and backend development as well as app dev (Flutter + React Native). I've also worked with machine learning models and recently completed a project that combines my interest in LLMs with my interest in the medical field. Now, I'm pursuing research within the field of computer vision in the Perception and Robotics Group at UMD. My previous internships include a 2 year internship at Rising Team, where I helped build company product components among other contributions; and a summer internship at Shopify NYC, where I worked on agentic AI solutions to help engineers with monitoring production.
 
 ☁️ Incoming @ Google Cloud - Applied AI during Summer 2026!
 
