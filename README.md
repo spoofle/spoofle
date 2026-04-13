@@ -10,7 +10,7 @@
 
 🛍️ Shopify Engineering Intern @ NYC during Summer 2025. Lots of MCP and LLM experience!
 
-🔬 CV + Robotics Research: Still relatively new, but I'm an undergraduate researcher at UMD's [Perception and Robotics Group](https://prg.cs.umd.edu/). Learning lots and assisting in research about optical flow in computer vision currently, but looking to switch gears a little and focus a little more on embodied AI and robotics.
+🔬 CV + Robotics Research: Still relatively new, but I'm an undergraduate researcher at UMD's [Perception and Robotics Group](https://prg.cs.umd.edu/). Learning lots and assisting in research about optical flow in computer vision currently, but looking to switch gears a little and focus a little more on embodied AI and robotics. Currently researching event camera data usage in vision saliency.
 
 ✍️ I write about Gen AI (particularly Gemini), computer vision, and cool research I read about on my blog [Code Meets Cognition](https://hthota.substack.com/). Feel free to check it out, as well as the code samples pinned below!
 
