@@ -1,6 +1,6 @@
 ## 👋 Hello, my name is Hita Thota! 
 
-💻 CS + Neuroscience @ University of Maryland - College Park
+💻 CS + Neuroscience & Mathematics @ University of Maryland - College Park
 
 📍 San Francisco, CA
 
